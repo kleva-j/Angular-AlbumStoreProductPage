@@ -38,7 +38,7 @@
     "@angular/router": "8.2.12",
     "core-js": "2.6.11",
     "rxjs": "6.5.5",
-    "tslib": "^1.11.2",
+    "tslib": "^1.13.0",
     "zone.js": "~0.10.3",
     "rxjs-compat": "^6.5.5"
   },
